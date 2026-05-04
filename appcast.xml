@@ -15,8 +15,8 @@
       <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://github.com/Eph3drine/wsocks_releases/releases/download/v1.0.1/WSocksVPN-Windows-Setup-1.0.1.exe"
-        sparkle:version="1.0.1"
-        sparkle:shortVersionString="1.0.1"
+        sparkle:version="1.0.2"
+        sparkle:shortVersionString="1.0.2"
         type="application/octet-stream"
         length="61356108" />
     </item>
